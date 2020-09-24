@@ -9,7 +9,7 @@ def state_log(star_date)
 end
 
 def crew
-  ["Geordi", "Data", "Worf", "William", "Beverly", "Deanna"]
+  ["Bob", "Joe", "Dan", "Billy", "Tom", "George"]
 end
 
 def greet_crew (crew)
